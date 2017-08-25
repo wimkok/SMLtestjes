@@ -1,0 +1,63 @@
+﻿9922	AD:VAT Andorra VAT number
+9923	AL:VAT Albania VAT number
+9916	AT:CID Firmenidentifikationsnummer der Statistik Austria
+9915	AT:GOV Österreichisches Verwaltungs bzw.Organisationskennzeichen
+9919	AT:KUR Kennziffer des Unternehmensregisters
+9914	AT:VAT Österreichische Umsatzsteuer-Identifikationsnummer
+9924	BA:VAT Bosnia and Herzegovina VAT number
+9925	BE:VAT Belgium VAT number
+9926	BG:VAT Bulgaria VAT number
+9927	CH:VAT Switzerland VAT number
+9928	CY:VAT Cyprus VAT number
+9929	CZ:VAT Czech Republic VAT number
+9930	DE:VAT Germany VAT number
+9901	DK:CPR Danish Ministry of the Interior and Health
+9902	DK:CVR The Danish Commerce and Companies Agency
+0096	DK:P The Danish Commerce and Companies Agency
+9904	DK:SE Danish Ministry of Taxation, Central Customs and Tax Administration
+9905	DK:VANS Danish VANS providers
+0060	DUNS Dun and Bradstreet Ltd
+9931	EE:VAT Estonia VAT number
+9920	ES:VAT Agencia Española de Administración Tributaria
+9913	EU:REID Business Registers Network
+9912	EU:VAT National ministries of Economy
+0037	FI:OVT Finnish tax board
+0002	FR:SIRENE INSEE: National Institute for statistics and Economic studies
+0009	FR:SIRET DU PONT DE NEMOURS
+9932	GB:VAT United Kingdom VAT number
+0088	GLN GS1
+9933	GR:VAT Greece VAT number
+9934	HR:VAT Croatia VAT number
+9910	HU:VAT Hungarian Tax Board
+9918	IBAN S.W.I.F.T.Society for Worldwide Interbank Financial Telecommunications s.c.
+9935	IE:VAT Ireland VAT number
+9917	IS:KT Icelandic National Registry
+0028	ISO6523 ISO (International Organization for Standardization)
+9907	IT:CF TAX Authority
+0097	IT:FTI Ediforum Italia
+9921	IT:IPA Indice delle Pubbliche Amministrazioni
+0142	IT:SECETI Servizi Centralizzati SECETI
+0135	IT:SIA Società Interbancaria per l Automazione
+9906	IT:VAT Ufficio responsabile gestione partite IVA
+9937	LT:VAT Lithuania VAT number
+9938	LU:VAT Luxemburg VAT number
+9939	LV:VAT Latvia VAT number
+9940	MC:VAT Monaco VAT number
+9941	ME:VAT Montenegro VAT number
+9942	MK:VAT Macedonia, the former Yugoslav Republic of VAT number
+9943	MT:VAT Malta VAT number
+0106	NL:KVK Vereniging van Kamers van Koophandel en Fabrieken in Nederland
+9954	NL:OIN Dutch OverheidsIdentificatieNummer
+9944	NL:VAT Netherlands VAT number
+9908	NO:ORGNR Enhetsregisteret ved Brønnøysundregistrene
+9909	NO:VAT Enhetsregisteret ved Brønnøysundregistrene
+9945	PL:VAT Poland VAT number
+9946	PT:VAT Portugal VAT number
+9947	RO:VAT Romania VAT number
+9948	RS:VAT Serbia VAT number
+0007	SE:ORGNR The Swedish National Tax Board
+9949	SI:VAT Slovenia VAT number
+9950	SK:VAT Slovakia VAT number
+9951	SM:VAT San Marino VAT number
+9952	TR:VAT Turkey VAT number
+9953	VA:VAT Holy See(Vatican City State) VAT number
